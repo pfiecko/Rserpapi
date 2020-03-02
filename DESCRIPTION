@@ -1,0 +1,12 @@
+Package: Rserpapi
+Type: Package
+Title: R interface for SERP API REST API (serpapi.com)
+Version: 0.0.1
+Author: Piotr Fiecko
+Maintainer: Piotr Fiecko <piotr@pbf.cloud>
+Description: The package contains two functions one to GET SERP API response, and second to parse it.
+More functions comming in the near future.
+License: Open source
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
